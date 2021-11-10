@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing to deploy ghpages",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Gabriela Oliveira",
+  "license": "ISC",
+  "homepage": "https://gabrielaoliveirabpt.github.io/testing",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
